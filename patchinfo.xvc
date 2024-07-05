@@ -409,11 +409,7 @@ Chef\QG\TEX\QG_RA1.dds bf2760ff20763090ec69625c0c058ba175b0a646
 Chef\QG\TEX\QG_S0.dds 0062bd1783cfa4677edeb1b202c57c11212339af
 Chef\QG\TEX\QG_S1.dds 5dd32fe61d4437d0f7be3b6bd126beaf9b183f07
 Chef\QG\TEX\QG_W14.dds b7d94250c4ebbcafb81c32ec2bece9f7a892342e
-<<<<<<< HEAD
 DataTable\Character.edf 1c98c77e60de92e49385c437e1754f7341832bb4
-=======
-DataTable\Character.edf 016cc72ad7ddcec5b82d6d71fbccd28f7caf1e7c
->>>>>>> 26c50adfe52beca5abcaea9c2f42baa69df35d08
 DataTable\en-gb\NDItem.edf 297fa2d6f29e9033b7dcfd2382888688758d3b6a
 DataTable\en-gb\NDItemCash.edf 48ca59409dd41c25532aee995984c59473c40f40
 DataTable\en-gb\NDStore.edf ffbc63f808408b899636d9752af7c362ba5c1405
