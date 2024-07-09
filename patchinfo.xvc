@@ -410,10 +410,10 @@ Chef\QG\TEX\QG_S0.dds 0062bd1783cfa4677edeb1b202c57c11212339af
 Chef\QG\TEX\QG_S1.dds 5dd32fe61d4437d0f7be3b6bd126beaf9b183f07
 Chef\QG\TEX\QG_W14.dds b7d94250c4ebbcafb81c32ec2bece9f7a892342e
 DataTable\Character.edf 1c98c77e60de92e49385c437e1754f7341832bb4
-DataTable\en-gb\NDItem.edf 51c896ab1bef30cc6a86f3b1a09f8d1eeae606a0
+DataTable\en-gb\NDItem.edf e66450dd8cfe6671bb7e9661e8268c82e9fac5ba
 DataTable\en-gb\NDItemCash.edf 48ca59409dd41c25532aee995984c59473c40f40
 DataTable\en-gb\NDStore.edf ffbc63f808408b899636d9752af7c362ba5c1405
-DataTable\Item.edf ac56214e041ce917ae6aae2ccbab159e6f3c5418
+DataTable\Item.edf dda92b5b0fb52ef627268cd468ac5a65ef600d89
 DataTable\ItemCash.edf 9bf385bd63b41ffa2f8e954203522cbf4d8bfb9f
 DataTable\ItemCombine.edf 35d7e26a74c01db2bfe12da49438850004e2c23b
 DataTable\ItemSetEffect.edf c90d0082089f19c1bb9f929843cd4026e54e799f
