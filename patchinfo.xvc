@@ -410,7 +410,7 @@ Chef\QG\TEX\QG_S0.dds 0062bd1783cfa4677edeb1b202c57c11212339af
 Chef\QG\TEX\QG_S1.dds 5dd32fe61d4437d0f7be3b6bd126beaf9b183f07
 Chef\QG\TEX\QG_W14.dds b7d94250c4ebbcafb81c32ec2bece9f7a892342e
 DataTable\Character.edf 424735fa9e914eb1cbb1f550620386a6a5dc8f3d
-DataTable\en-gb\NDItem.edf 2f1f2d96dd21543014da1033232566ed4cb3cd50
+DataTable\en-gb\NDItem.edf 72b2315240d5e0b79f4abb6816ce4e51d270a73a
 DataTable\en-gb\NDItemCash.edf 48ca59409dd41c25532aee995984c59473c40f40
 DataTable\en-gb\NDStore.edf ffbc63f808408b899636d9752af7c362ba5c1405
 DataTable\Item.edf 84254211d4e732627def55da9b92f9d69eff6b5f
@@ -419,7 +419,7 @@ DataTable\ItemCombine.edf 35d7e26a74c01db2bfe12da49438850004e2c23b
 DataTable\ItemSetEffect.edf c90d0082089f19c1bb9f929843cd4026e54e799f
 DataTable\Quest.edf 45cb96e8bce9bf0b4c07ce0e7df3d06d69027d97
 DataTable\Resource.EDF 830e6e09ddac7aaa0ee49503d212adcf73d13461
-DataTable\SkillForce.edf 51521258d1fc1171c70ad07c3165aad50fe8df33
+DataTable\SkillForce.edf 754e5efb4ff32b8acf2ef0032d0aa57a7a77586b
 DataTable\Store.edf 544c9fe8cee3171461db308ecf0c29f76e492b2d
 dbghelp.dll 8245691416e509a3a1bd8e321aa6d2ff1925a224
 Item\Armor\Mesh\ACCRETIA_ARMOR_CLOAK_ESTES_DOMINATION.MSH 7dedc7ae348f9177017cf31de2d690c1526e4404
